@@ -1,5 +1,3 @@
-
-
 var config = {
     title:" 3W Dashboard",
     description:"Who is doing What, Where in response to the Lake Chad Basin crisis",
@@ -20,15 +18,18 @@ var config = {
 };
 
 function generate3WComponent(config,data,geom){
-    
+
     var lookup = genLookup(geom,config);
-    
+
     $('#title').html(config.title);
     $('#description').html(config.description);
 
     var whoChart = dc.rowChart('#hdx-3W-who');
     var whatChart = dc.rowChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
+    var datatabGraphe = dc.dataTable('#datatab');
+
+
     var cf = crossfilter(data);
 
     var whoDimension = cf.dimension(function(d){ return d[config.whoFieldName]; });
@@ -36,9 +37,9 @@ function generate3WComponent(config,data,geom){
     var whereDimension = cf.dimension(function(d){ return d[config.whereFieldName]; });
     var whoGroup = whoDimension.group().reduceSum(function(d){ return d[config.sumField]; });
     var whatGroup = whatDimension.group();
-    var whereGroup = whereDimension.group();  
-    var whoGroup1 = whoDimension.group().reduceCount();     
-    
+    var whereGroup = whereDimension.group();
+    var whoGroup1 = whoDimension.group().reduceCount();
+
     var all = cf.groupAll();
 
     var sumdim =  cf.dimension(function(d){ return d[config.sumField]; });
@@ -46,6 +47,31 @@ function generate3WComponent(config,data,geom){
 
     var nbdim = cf.dimension(function(d){return d[config.nbField];});
     var nbgroup = nbdim.group().reduceSum(function(d){return d[config.nbField];});
+
+//datatable
+    datatabGraphe.dimension(whoDimension)
+        .group(function (d) {
+            return d.whereFieldName;
+        })
+        .columns([
+                function (d) {
+                return d.Country;
+            },
+                function (d) {
+                return d.Admin1;
+            },
+                    function (d) {
+                return d.sector;
+            },
+                    function (d) {
+                return d.orga;
+            }
+                ])
+        .sortBy(function (d) {
+            return d.sector;
+        });
+
+    //fin datatable
 
     whoChart.width($('#hxd-3W-who').width()).height(400)
             .dimension(whoDimension)
@@ -57,7 +83,7 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
-            .title(function(d){return [ 
+            .title(function(d){return [
                 "present in " + d.value + " regions"].join('\n')})
             .xAxis().ticks(5);
 
@@ -65,7 +91,7 @@ function generate3WComponent(config,data,geom){
             .dimension(whatDimension)
             .group(whatGroup)
             .elasticX(true)
-            .title(function(d){return [ 
+            .title(function(d){return [
                 d.value + " organisations"].join('\n')})
             .data(function(group) {
                 return group.top(15);
@@ -73,16 +99,16 @@ function generate3WComponent(config,data,geom){
             .labelOffsetY(13)
             .colors([config.color])
             .colorAccessor(function(d, i){return 0;})
-            .title(function(d){return [ 
+            .title(function(d){return [
                 d.value + " organisations"].join('\n')})
             .xAxis().ticks(5);
 
-  
+
     whereChart.width($('#hxd-3W-where').width()).height(360)
             .dimension(whereDimension)
             .group(whereGroup)
             .center([0,0])
-            .zoom(0)    
+            .zoom(0)
             .geojson(geom)
             .colors(['#DDDDDD','#A7C1D3','#71A5CA','#3B88C0', '#056CB6'])
             .renderTitle(true)
@@ -100,8 +126,8 @@ function generate3WComponent(config,data,geom){
                     c=1;
                 };
                 return c
-                
-            })                  
+
+            })
             .featureKeyAccessor(function(feature){
                 return feature.properties[config.joinAttribute];
             }).popup(function(d){
@@ -117,8 +143,8 @@ function generate3WComponent(config,data,geom){
             })
 
     dc.renderAll();
-    
-    
+
+
     var map = whereChart.map();
 
 
@@ -129,13 +155,13 @@ function generate3WComponent(config,data,geom){
     } else {
         var axisText = 'Activities';
     }
-    
-    
+
+
     function zoomToGeom(geom){
         var bounds = d3.geo.bounds(geom);
         map.fitBounds([[bounds[0][1],bounds[0][0]],[bounds[1][1],bounds[1][0]]]);
     }
-    
+
     function genLookup(geojson,config){
         var lookup = {};
         geojson.features.forEach(function(e){
@@ -147,16 +173,16 @@ function generate3WComponent(config,data,geom){
 }
 
 
-var dataCall = $.ajax({ 
-    type: 'GET', 
-    url: config.data, 
+var dataCall = $.ajax({
+    type: 'GET',
+    url: config.data,
     dataType: 'json',
 });
 
 
-var geomCall = $.ajax({ 
-    type: 'GET', 
-    url: config.geo, 
+var geomCall = $.ajax({
+    type: 'GET',
+    url: config.geo,
     dataType: 'json',
 });
 
@@ -165,7 +191,7 @@ var geomCall = $.ajax({
 $.when(dataCall, geomCall).then(function(dataArgs, geomArgs){
     var geom = geomArgs[0];
     geom.features.forEach(function(e){
-        e.properties[config.joinAttribute] = String(e.properties[config.joinAttribute]); 
+        e.properties[config.joinAttribute] = String(e.properties[config.joinAttribute]);
     });
     generate3WComponent(config,dataArgs[0],geom);
 });

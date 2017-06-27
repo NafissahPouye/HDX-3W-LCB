@@ -36,11 +36,11 @@
     padding-right:0px;
     padding-left:0px;
 }
-    
+
  .hdx-3w-chart {
     width:100%;
  }
- 
+
  .hdx-3w-info{
     padding:5px;
     background-color:white;
@@ -48,3 +48,7 @@
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     border-radius: 5px;
  }
+
+#datatab {
+    margin-left: 30px;
+}
