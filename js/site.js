@@ -28,6 +28,7 @@ function generate3WComponent(config,data,geom){
     var whatChart = dc.rowChart('#hdx-3W-what');
     var whereChart = dc.leafletChoroplethChart('#hdx-3W-where');
     var datatabGraphe = dc.dataTable('#datatab');
+    var datatabGraph = dc.dataTable('#datatab1');
 
 
     var cf = crossfilter(data);
@@ -51,7 +52,7 @@ function generate3WComponent(config,data,geom){
 //datatable
     datatabGraphe.dimension(whoDimension)
         .group(function (d) {
-            return d.whereFieldName;
+            return d.whoGroup;
         })
         .columns([
                 function (d) {
@@ -68,7 +69,65 @@ function generate3WComponent(config,data,geom){
             }
                 ])
         .sortBy(function (d) {
-            return d.sector;
+            return d[config.whoFieldName];
+        });
+
+    //fin datatable
+    //datatable1 testing
+    var test =[
+  {
+    "adm": "Adamawa",
+    "CCCM": 1,
+    "FSC": 9,
+    "Coordination": 10,
+    "Education": 11,
+    "Nutrition": 14
+  },
+  {
+    "adm": "Diffa",
+    "CCCM": 6,
+    "FSC": 7,
+    "Coordination": 8,
+    "Education": 9,
+    "Nutrition": 9
+  }
+];
+var ndx = crossfilter(test);
+    var dim = ndx.dimension(function (d){ 
+        console.log(d.adm);
+        return d.adm;});
+    var gp = dim.group();//.reduceSum(function(d){ return d.CCCM;});
+
+    datatabGraph.dimension(dim)
+                // .group(gp)
+        .group(function (d) {
+            d.CCCM;
+        })
+        .columns([
+               /* function (d) {
+                return d.Country;
+            },*/
+                function (d) {
+                return d.adm;
+            },
+                    function (d) {
+                return d.CCCM;
+            },
+                    function (d) {
+                return d.FSC;
+            },
+                    function (d) {
+                return d.Coordination;
+            },
+                    function (d) {
+                return d.Education;
+            },
+                    function (d) {
+                return d.Nutrition;
+            }
+                ])
+        .sortBy(function (d) {
+            return d.adm;
         });
 
     //fin datatable

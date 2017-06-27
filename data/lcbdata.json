@@ -6,7 +6,13 @@
     "Pcodes": "NGA002",
     "orga": "IOM",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "Adamawa",
+    "CCCM": 1,
+    "FSC": 9,
+    "Coordination": 10,
+    "Education": 11,
+    "Nutrition": 14
   },
   {
     "Country": "Nigeria",
@@ -15,7 +21,13 @@
     "Pcodes": "NGA002",
     "orga": "OCHA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "Diffa",
+    "CCCM": 6,
+    "FSC": 7,
+    "Coordination": 8,
+    "Education": 9,
+    "Nutrition": 9
   },
   {
     "Country": "Nigeria",
@@ -24,7 +36,13 @@
     "Pcodes": "NGA002",
     "orga": "CCFN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -33,7 +51,13 @@
     "Pcodes": "NGA002",
     "orga": "ECR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -42,7 +66,13 @@
     "Pcodes": "NGA002",
     "orga": "IRC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -51,7 +81,13 @@
     "Pcodes": "NGA002",
     "orga": "UNICEF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -60,7 +96,13 @@
     "Pcodes": "NGA002",
     "orga": "ADRA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -69,7 +111,13 @@
     "Pcodes": "NGA002",
     "orga": "API",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -78,7 +126,13 @@
     "Pcodes": "NGA002",
     "orga": "AUN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -87,7 +141,13 @@
     "Pcodes": "NGA002",
     "orga": "CISCOPE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -96,7 +156,13 @@
     "Pcodes": "NGA002",
     "orga": "CRUDAN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -105,7 +171,13 @@
     "Pcodes": "NGA002",
     "orga": "FAO",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -114,7 +186,13 @@
     "Pcodes": "NGA002",
     "orga": "ICEED",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -123,7 +201,13 @@
     "Pcodes": "NGA002",
     "orga": "OXFAM",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -132,7 +216,13 @@
     "Pcodes": "NGA002",
     "orga": "SMOA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -141,7 +231,13 @@
     "Pcodes": "NGA002",
     "orga": "TF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -150,7 +246,13 @@
     "Pcodes": "NGA002",
     "orga": "UNDP",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -159,7 +261,13 @@
     "Pcodes": "NGA002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -168,7 +276,13 @@
     "Pcodes": "NGA002",
     "orga": "NRC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -177,7 +291,13 @@
     "Pcodes": "NGA002",
     "orga": "IRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -186,7 +306,13 @@
     "Pcodes": "NGA002",
     "orga": "SMOH",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -195,7 +321,13 @@
     "Pcodes": "NGA002",
     "orga": "SPHCDA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -204,7 +336,13 @@
     "Pcodes": "NGA002",
     "orga": "ACTION AID",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -213,7 +351,13 @@
     "Pcodes": "NGA002",
     "orga": "IOM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -222,7 +366,13 @@
     "Pcodes": "NGA002",
     "orga": "IRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -231,7 +381,13 @@
     "Pcodes": "NGA002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -240,7 +396,13 @@
     "Pcodes": "NGA002",
     "orga": "SMOWASD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -249,7 +411,13 @@
     "Pcodes": "NGA002",
     "orga": "UNFPA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -258,7 +426,13 @@
     "Pcodes": "NGA002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -267,7 +441,13 @@
     "Pcodes": "NGA002",
     "orga": "WYEAHI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -276,7 +456,13 @@
     "Pcodes": "NGA002",
     "orga": "IOM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -285,7 +471,13 @@
     "Pcodes": "NGA002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -294,7 +486,13 @@
     "Pcodes": "NGA002",
     "orga": "NRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -303,7 +501,13 @@
     "Pcodes": "NGA002",
     "orga": "NRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -312,7 +516,13 @@
     "Pcodes": "NGA008",
     "orga": "IOM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -321,7 +531,13 @@
     "Pcodes": "NGA008",
     "orga": "OCHA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -330,7 +546,13 @@
     "Pcodes": "NGA008",
     "orga": "CAI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -339,7 +561,13 @@
     "Pcodes": "NGA008",
     "orga": "CCFN",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -348,7 +576,13 @@
     "Pcodes": "NGA008",
     "orga": "ECR",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -357,7 +591,13 @@
     "Pcodes": "NGA008",
     "orga": "SUBEB",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -366,7 +606,13 @@
     "Pcodes": "NGA008",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -375,7 +621,13 @@
     "Pcodes": "NGA008",
     "orga": "ACF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -384,7 +636,13 @@
     "Pcodes": "NGA008",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -393,7 +651,13 @@
     "Pcodes": "NGA008",
     "orga": "CA UK",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -402,7 +666,13 @@
     "Pcodes": "NGA008",
     "orga": "CISCOPE",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -411,7 +681,13 @@
     "Pcodes": "NGA008",
     "orga": "CRS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -420,7 +696,13 @@
     "Pcodes": "NGA008",
     "orga": "DHCBI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -429,7 +711,13 @@
     "Pcodes": "NGA008",
     "orga": "DRC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -438,7 +726,13 @@
     "Pcodes": "NGA008",
     "orga": "EYN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -447,7 +741,13 @@
     "Pcodes": "NGA008",
     "orga": "FAO",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -456,7 +756,13 @@
     "Pcodes": "NGA008",
     "orga": "IMC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -465,7 +771,13 @@
     "Pcodes": "NGA008",
     "orga": "INTERSOS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -474,7 +786,13 @@
     "Pcodes": "NGA008",
     "orga": "JDPH",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -483,7 +801,13 @@
     "Pcodes": "NGA008",
     "orga": "MC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -492,7 +816,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - FRANCE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -501,7 +831,13 @@
     "Pcodes": "NGA008",
     "orga": "NRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -510,7 +846,13 @@
     "Pcodes": "NGA008",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -519,7 +861,13 @@
     "Pcodes": "NGA008",
     "orga": "PUI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -528,7 +876,13 @@
     "Pcodes": "NGA008",
     "orga": "SC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -537,7 +891,13 @@
     "Pcodes": "NGA008",
     "orga": "SCI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -546,7 +906,13 @@
     "Pcodes": "NGA008",
     "orga": "SEMA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -555,7 +921,13 @@
     "Pcodes": "NGA008",
     "orga": "SIF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -564,7 +936,13 @@
     "Pcodes": "NGA008",
     "orga": "SMOA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -573,7 +951,13 @@
     "Pcodes": "NGA008",
     "orga": "SWNI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -582,7 +966,13 @@
     "Pcodes": "NGA008",
     "orga": "WFP",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -591,7 +981,13 @@
     "Pcodes": "NGA008",
     "orga": "SWNI",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -600,7 +996,13 @@
     "Pcodes": "NGA008",
     "orga": "YFWP",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -609,7 +1011,13 @@
     "Pcodes": "NGA008",
     "orga": "ZOA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -618,7 +1026,13 @@
     "Pcodes": "NGA008",
     "orga": "ACF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -627,7 +1041,13 @@
     "Pcodes": "NGA008",
     "orga": "ALIMA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -636,7 +1056,13 @@
     "Pcodes": "NGA008",
     "orga": "IMC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -645,7 +1071,13 @@
     "Pcodes": "NGA008",
     "orga": "IRC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -654,7 +1086,13 @@
     "Pcodes": "NGA008",
     "orga": "MDM",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -663,7 +1101,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - BELGIUM",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -672,7 +1116,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - FRANCE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -681,7 +1131,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - HOLLAND",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -690,7 +1146,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - SPAIN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -699,7 +1161,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF SUISSE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -708,7 +1176,13 @@
     "Pcodes": "NGA008",
     "orga": "POH",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -717,7 +1191,13 @@
     "Pcodes": "NGA008",
     "orga": "PUI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -726,7 +1206,13 @@
     "Pcodes": "NGA008",
     "orga": "UNICEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -735,7 +1221,13 @@
     "Pcodes": "NGA008",
     "orga": "WHO",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -744,7 +1236,13 @@
     "Pcodes": "NGA008",
     "orga": "IMC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -753,7 +1251,13 @@
     "Pcodes": "NGA008",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -762,7 +1266,13 @@
     "Pcodes": "NGA008",
     "orga": "MDM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -771,7 +1281,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - BELGIUM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -780,7 +1296,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - SPAIN",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -789,7 +1311,13 @@
     "Pcodes": "NGA008",
     "orga": "SMOH",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -798,7 +1326,13 @@
     "Pcodes": "NGA008",
     "orga": "SPHCDA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -807,7 +1341,13 @@
     "Pcodes": "NGA008",
     "orga": "SWNI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -816,7 +1356,13 @@
     "Pcodes": "NGA008",
     "orga": "CCHD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -825,7 +1371,13 @@
     "Pcodes": "NGA008",
     "orga": "CFL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -834,7 +1386,13 @@
     "Pcodes": "NGA008",
     "orga": "DRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -843,7 +1401,13 @@
     "Pcodes": "NGA008",
     "orga": "EYN",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -852,7 +1416,13 @@
     "Pcodes": "NGA008",
     "orga": "FHI360",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -861,7 +1431,13 @@
     "Pcodes": "NGA008",
     "orga": "GEPDC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -870,7 +1446,13 @@
     "Pcodes": "NGA008",
     "orga": "IMC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -879,7 +1461,13 @@
     "Pcodes": "NGA008",
     "orga": "IOM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -888,7 +1476,13 @@
     "Pcodes": "NGA008",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -897,7 +1491,13 @@
     "Pcodes": "NGA008",
     "orga": "MC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -906,7 +1506,13 @@
     "Pcodes": "NGA008",
     "orga": "NF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -915,7 +1521,13 @@
     "Pcodes": "NGA008",
     "orga": "NRCS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -924,7 +1536,13 @@
     "Pcodes": "NGA008",
     "orga": "OXFAM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -933,7 +1551,13 @@
     "Pcodes": "NGA008",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -942,7 +1566,13 @@
     "Pcodes": "NGA008",
     "orga": "SCI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -951,7 +1581,13 @@
     "Pcodes": "NGA008",
     "orga": "SMOWA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -960,7 +1596,13 @@
     "Pcodes": "NGA008",
     "orga": "SMOWASD",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -969,7 +1611,13 @@
     "Pcodes": "NGA008",
     "orga": "UNFPA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -978,7 +1626,13 @@
     "Pcodes": "NGA008",
     "orga": "WINN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -987,7 +1641,13 @@
     "Pcodes": "NGA008",
     "orga": "WYEAHI",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -996,7 +1656,13 @@
     "Pcodes": "NGA008",
     "orga": "CRS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1005,7 +1671,13 @@
     "Pcodes": "NGA008",
     "orga": "IOM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1014,7 +1686,13 @@
     "Pcodes": "NGA008",
     "orga": "NRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1023,7 +1701,13 @@
     "Pcodes": "NGA008",
     "orga": "POH",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1032,7 +1716,13 @@
     "Pcodes": "NGA008",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1041,7 +1731,13 @@
     "Pcodes": "NGA008",
     "orga": "CA UK",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1050,7 +1746,13 @@
     "Pcodes": "NGA008",
     "orga": "CIDAR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1059,7 +1761,13 @@
     "Pcodes": "NGA008",
     "orga": "CRS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1068,7 +1776,13 @@
     "Pcodes": "NGA008",
     "orga": "EYN",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1077,7 +1791,13 @@
     "Pcodes": "NGA008",
     "orga": "FHI360",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1086,7 +1806,13 @@
     "Pcodes": "NGA008",
     "orga": "IMC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1095,7 +1821,13 @@
     "Pcodes": "NGA008",
     "orga": "IOM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1104,7 +1836,13 @@
     "Pcodes": "NGA008",
     "orga": "IRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1113,7 +1851,13 @@
     "Pcodes": "NGA008",
     "orga": "JDPH",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1122,7 +1866,13 @@
     "Pcodes": "NGA008",
     "orga": "MC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1131,7 +1881,13 @@
     "Pcodes": "NGA008",
     "orga": "MSF - FRANCE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1140,7 +1896,13 @@
     "Pcodes": "NGA008",
     "orga": "NRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1149,7 +1911,13 @@
     "Pcodes": "NGA008",
     "orga": "NRCS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1158,7 +1926,13 @@
     "Pcodes": "NGA008",
     "orga": "OXFAM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1167,7 +1941,13 @@
     "Pcodes": "NGA008",
     "orga": "POH",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1176,7 +1956,13 @@
     "Pcodes": "NGA008",
     "orga": "RUWASSA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1185,7 +1971,13 @@
     "Pcodes": "NGA008",
     "orga": "SCI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1194,7 +1986,13 @@
     "Pcodes": "NGA008",
     "orga": "UNICEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -1203,7 +2001,13 @@
     "Pcodes": "NGA008",
     "orga": "YWN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1212,7 +2016,13 @@
     "Pcodes": "NER002",
     "orga": "OCHA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1221,7 +2031,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1230,7 +2046,13 @@
     "Pcodes": "NER002",
     "orga": "UNDP",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1239,7 +2061,13 @@
     "Pcodes": "NER002",
     "orga": "AIDN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1248,7 +2076,13 @@
     "Pcodes": "NER002",
     "orga": "APEFA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1257,7 +2091,13 @@
     "Pcodes": "NER002",
     "orga": "CONCERN WORDWILDE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1266,7 +2106,13 @@
     "Pcodes": "NER002",
     "orga": "COOPI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1275,7 +2121,13 @@
     "Pcodes": "NER002",
     "orga": "CRL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1284,7 +2136,13 @@
     "Pcodes": "NER002",
     "orga": "EIRENE SAHEL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1293,7 +2151,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1302,7 +2166,13 @@
     "Pcodes": "NER002",
     "orga": "LUDEV/PAQUE II",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1311,7 +2181,13 @@
     "Pcodes": "NER002",
     "orga": "WFP",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1320,7 +2196,13 @@
     "Pcodes": "NER002",
     "orga": "LUDEV/PAQUE II",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1329,7 +2211,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1338,7 +2226,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1347,7 +2241,13 @@
     "Pcodes": "NER002",
     "orga": "VDN-NUR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1356,7 +2256,13 @@
     "Pcodes": "NER002",
     "orga": "ACF",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1365,7 +2271,13 @@
     "Pcodes": "NER002",
     "orga": "AGIR PLUS-21",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1374,7 +2286,13 @@
     "Pcodes": "NER002",
     "orga": "AIDN",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1383,7 +2301,13 @@
     "Pcodes": "NER002",
     "orga": "CADEV",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1392,7 +2316,13 @@
     "Pcodes": "NER002",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1401,7 +2331,13 @@
     "Pcodes": "NER002",
     "orga": "CCA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1410,7 +2346,13 @@
     "Pcodes": "NER002",
     "orga": "CRS",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1419,7 +2361,13 @@
     "Pcodes": "NER002",
     "orga": "DEMI-E",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1428,7 +2376,13 @@
     "Pcodes": "NER002",
     "orga": "DRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1437,7 +2391,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1446,7 +2406,13 @@
     "Pcodes": "NER002",
     "orga": "KARKARA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1455,7 +2421,13 @@
     "Pcodes": "NER002",
     "orga": "KOURI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1464,7 +2436,13 @@
     "Pcodes": "NER002",
     "orga": "MAHGC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1473,7 +2451,13 @@
     "Pcodes": "NER002",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1482,7 +2466,13 @@
     "Pcodes": "NER002",
     "orga": "WFP",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1491,7 +2481,13 @@
     "Pcodes": "NER002",
     "orga": "PGCCA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1500,7 +2496,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1509,7 +2511,13 @@
     "Pcodes": "NER002",
     "orga": "SAMARITAN'S PURSE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1518,7 +2526,13 @@
     "Pcodes": "NER002",
     "orga": "SCI",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1527,7 +2541,13 @@
     "Pcodes": "NER002",
     "orga": "SOS-VE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1536,7 +2556,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1545,7 +2571,13 @@
     "Pcodes": "NER002",
     "orga": "VDN-NUR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1554,7 +2586,13 @@
     "Pcodes": "NER002",
     "orga": "WELTHUNGERHILFE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1563,7 +2601,13 @@
     "Pcodes": "NER002",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1572,7 +2616,13 @@
     "Pcodes": "NER002",
     "orga": "AKARASS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1581,7 +2631,13 @@
     "Pcodes": "NER002",
     "orga": "APBE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1590,7 +2646,13 @@
     "Pcodes": "NER002",
     "orga": "COOPI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1599,7 +2661,13 @@
     "Pcodes": "NER002",
     "orga": "HKI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1608,7 +2676,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1617,7 +2691,13 @@
     "Pcodes": "NER002",
     "orga": "KARKARA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1626,7 +2706,13 @@
     "Pcodes": "NER002",
     "orga": "MSF SUISSE",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1635,7 +2721,13 @@
     "Pcodes": "NER002",
     "orga": "MSF - SPAIN",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1644,7 +2736,13 @@
     "Pcodes": "NER002",
     "orga": "MSF - FRANCE",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1653,7 +2751,13 @@
     "Pcodes": "NER002",
     "orga": "WHO",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1662,7 +2766,13 @@
     "Pcodes": "NER002",
     "orga": "WFP",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1671,7 +2781,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1680,7 +2796,13 @@
     "Pcodes": "NER002",
     "orga": "SCI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1689,7 +2811,13 @@
     "Pcodes": "NER002",
     "orga": "SOS-VE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1698,7 +2826,13 @@
     "Pcodes": "NER002",
     "orga": "UNFPA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1707,7 +2841,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1716,7 +2856,13 @@
     "Pcodes": "NER002",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1725,7 +2871,13 @@
     "Pcodes": "NER002",
     "orga": "ACTED",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1734,7 +2886,13 @@
     "Pcodes": "NER002",
     "orga": "AREN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1743,7 +2901,13 @@
     "Pcodes": "NER002",
     "orga": "CADEV",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1752,7 +2916,13 @@
     "Pcodes": "NER002",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1761,7 +2931,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1770,7 +2946,13 @@
     "Pcodes": "NER002",
     "orga": "KARKARA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1779,7 +2961,13 @@
     "Pcodes": "NER002",
     "orga": "KOURI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1788,7 +2976,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1797,7 +2991,13 @@
     "Pcodes": "NER002",
     "orga": "SFCG",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1806,7 +3006,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1815,7 +3021,13 @@
     "Pcodes": "NER002",
     "orga": "ACF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1824,7 +3036,13 @@
     "Pcodes": "NER002",
     "orga": "AKARASS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1833,7 +3051,13 @@
     "Pcodes": "NER002",
     "orga": "APBE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1842,7 +3066,13 @@
     "Pcodes": "NER002",
     "orga": "COOPI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1851,7 +3081,13 @@
     "Pcodes": "NER002",
     "orga": "HKI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1860,7 +3096,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1869,7 +3111,13 @@
     "Pcodes": "NER002",
     "orga": "KARKARA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1878,7 +3126,13 @@
     "Pcodes": "NER002",
     "orga": "MSF SUISSE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1887,7 +3141,13 @@
     "Pcodes": "NER002",
     "orga": "MSF - SPAIN",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1896,7 +3156,13 @@
     "Pcodes": "NER002",
     "orga": "MSF - FRANCE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1905,7 +3171,13 @@
     "Pcodes": "NER002",
     "orga": "WHO",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1914,7 +3186,13 @@
     "Pcodes": "NER002",
     "orga": "WFP",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1923,7 +3201,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1932,7 +3216,13 @@
     "Pcodes": "NER002",
     "orga": "SCI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1941,7 +3231,13 @@
     "Pcodes": "NER002",
     "orga": "SOS-VE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1950,7 +3246,13 @@
     "Pcodes": "NER002",
     "orga": "UNFPA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1959,7 +3261,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1968,7 +3276,13 @@
     "Pcodes": "NER002",
     "orga": "UNICEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1977,7 +3291,13 @@
     "Pcodes": "NER002",
     "orga": "AGIR PLUS-21",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1986,7 +3306,13 @@
     "Pcodes": "NER002",
     "orga": "AIDN",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -1995,7 +3321,13 @@
     "Pcodes": "NER002",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2004,7 +3336,13 @@
     "Pcodes": "NER002",
     "orga": "CBA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2013,7 +3351,13 @@
     "Pcodes": "NER002",
     "orga": "COOPI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2022,7 +3366,13 @@
     "Pcodes": "NER002",
     "orga": "DRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2031,7 +3381,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2040,7 +3396,13 @@
     "Pcodes": "NER002",
     "orga": "KARKARA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2049,7 +3411,13 @@
     "Pcodes": "NER002",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2058,7 +3426,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2067,7 +3441,13 @@
     "Pcodes": "NER002",
     "orga": "SCI",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2076,7 +3456,13 @@
     "Pcodes": "NER002",
     "orga": "SOS-VE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2085,7 +3471,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2094,7 +3486,13 @@
     "Pcodes": "NER002",
     "orga": "WORLD VISION",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2103,7 +3501,13 @@
     "Pcodes": "NER002",
     "orga": "APBE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2112,7 +3516,13 @@
     "Pcodes": "NER002",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2121,7 +3531,13 @@
     "Pcodes": "NER002",
     "orga": "CISP",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2130,7 +3546,13 @@
     "Pcodes": "NER002",
     "orga": "CRL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2139,7 +3561,13 @@
     "Pcodes": "NER002",
     "orga": "CRS",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2148,7 +3576,13 @@
     "Pcodes": "NER002",
     "orga": "DEMI-E",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2157,7 +3591,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2166,7 +3606,13 @@
     "Pcodes": "NER002",
     "orga": "MAHGC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2175,7 +3621,13 @@
     "Pcodes": "NER002",
     "orga": "IOM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2184,7 +3636,13 @@
     "Pcodes": "NER002",
     "orga": "OXFAM",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2193,7 +3651,13 @@
     "Pcodes": "NER002",
     "orga": "SOS-VE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2202,7 +3666,13 @@
     "Pcodes": "NER002",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2211,7 +3681,13 @@
     "Pcodes": "NER002",
     "orga": "WORLD VISION",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2220,7 +3696,13 @@
     "Pcodes": "NER002",
     "orga": "ACF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2229,7 +3711,13 @@
     "Pcodes": "NER002",
     "orga": "ACTED",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2238,7 +3726,13 @@
     "Pcodes": "NER002",
     "orga": "AGIR PLUS-21",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2247,7 +3741,13 @@
     "Pcodes": "NER002",
     "orga": "CADEV",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2256,7 +3756,13 @@
     "Pcodes": "NER002",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2265,7 +3771,13 @@
     "Pcodes": "NER002",
     "orga": "CRL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2274,7 +3786,13 @@
     "Pcodes": "NER002",
     "orga": "CRS",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2283,7 +3801,13 @@
     "Pcodes": "NER002",
     "orga": "DEMI-E",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2292,7 +3816,13 @@
     "Pcodes": "NER002",
     "orga": "DRH",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2301,7 +3831,13 @@
     "Pcodes": "NER002",
     "orga": "DRHA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2310,7 +3846,13 @@
     "Pcodes": "NER002",
     "orga": "HKI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2319,7 +3861,13 @@
     "Pcodes": "NER002",
     "orga": "IAS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2328,7 +3876,13 @@
     "Pcodes": "NER002",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2337,7 +3891,13 @@
     "Pcodes": "NER002",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2346,7 +3906,13 @@
     "Pcodes": "NER002",
     "orga": "KOURI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2355,7 +3921,13 @@
     "Pcodes": "NER002",
     "orga": "LUDEV/PAQUE II",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2364,7 +3936,13 @@
     "Pcodes": "NER002",
     "orga": "MSF SUISSE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2373,7 +3951,13 @@
     "Pcodes": "NER002",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2382,7 +3966,13 @@
     "Pcodes": "NER002",
     "orga": "LUDEV/PAQUE II",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2391,7 +3981,13 @@
     "Pcodes": "NER002",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2400,7 +3996,13 @@
     "Pcodes": "NER002",
     "orga": "SAMARITAN'S PURSE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2409,7 +4011,13 @@
     "Pcodes": "NER002",
     "orga": "SCI",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2418,7 +4026,13 @@
     "Pcodes": "NER002",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Niger",
@@ -2427,7 +4041,13 @@
     "Pcodes": "NER002",
     "orga": "WORLD VISION",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2436,7 +4056,13 @@
     "Pcodes": "CMR004",
     "orga": "ADES",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2445,7 +4071,13 @@
     "Pcodes": "CMR004",
     "orga": "AIRD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2454,7 +4086,13 @@
     "Pcodes": "CMR004",
     "orga": "ALDEPA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2463,7 +4101,13 @@
     "Pcodes": "CMR004",
     "orga": "CICR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2472,7 +4116,13 @@
     "Pcodes": "CMR004",
     "orga": "CRC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2481,7 +4131,13 @@
     "Pcodes": "CMR004",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2490,7 +4146,13 @@
     "Pcodes": "CMR004",
     "orga": "IMC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2499,7 +4161,13 @@
     "Pcodes": "CMR004",
     "orga": "INTERSOS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2508,7 +4176,13 @@
     "Pcodes": "CMR004",
     "orga": "MSF SUISSE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2517,7 +4191,13 @@
     "Pcodes": "CMR004",
     "orga": "PUBLIC CONCERNE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2526,7 +4206,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2535,7 +4221,13 @@
     "Pcodes": "CMR004",
     "orga": "PUI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2544,7 +4236,13 @@
     "Pcodes": "CMR004",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2553,7 +4251,13 @@
     "Pcodes": "CMR004",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2562,7 +4266,13 @@
     "Pcodes": "CMR004",
     "orga": "CARVARD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2571,7 +4281,13 @@
     "Pcodes": "CMR004",
     "orga": "COPRESSA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2580,7 +4296,13 @@
     "Pcodes": "CMR004",
     "orga": "FLM",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2589,7 +4311,13 @@
     "Pcodes": "CMR004",
     "orga": "GIZ",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2598,7 +4326,13 @@
     "Pcodes": "CMR004",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2607,7 +4341,13 @@
     "Pcodes": "CMR004",
     "orga": "JAPSSO",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2616,7 +4356,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2625,7 +4371,13 @@
     "Pcodes": "CMR004",
     "orga": "SAHELI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2634,7 +4386,13 @@
     "Pcodes": "CMR004",
     "orga": "SAILD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2643,7 +4401,13 @@
     "Pcodes": "CMR004",
     "orga": "UICN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2652,7 +4416,13 @@
     "Pcodes": "CMR004",
     "orga": "ADRA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2661,7 +4431,13 @@
     "Pcodes": "CMR004",
     "orga": "ALDEPA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2670,7 +4446,13 @@
     "Pcodes": "CMR004",
     "orga": "CDD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2679,7 +4461,13 @@
     "Pcodes": "CMR004",
     "orga": "CODAS CARITAS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2688,7 +4476,13 @@
     "Pcodes": "CMR004",
     "orga": "COPRESSA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2697,7 +4491,13 @@
     "Pcodes": "CMR004",
     "orga": "CROPSEC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2706,7 +4506,13 @@
     "Pcodes": "CMR004",
     "orga": "DEMTOU",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2715,7 +4521,13 @@
     "Pcodes": "CMR004",
     "orga": "PUBLIC CONCERNE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2724,7 +4536,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2733,7 +4551,13 @@
     "Pcodes": "CMR004",
     "orga": "SDA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2742,7 +4566,13 @@
     "Pcodes": "CMR004",
     "orga": "CAPROD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2751,7 +4581,13 @@
     "Pcodes": "CMR004",
     "orga": "CARE INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2760,7 +4596,13 @@
     "Pcodes": "CMR004",
     "orga": "CDD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2769,7 +4611,13 @@
     "Pcodes": "CMR004",
     "orga": "CICR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2778,7 +4626,13 @@
     "Pcodes": "CMR004",
     "orga": "CODAS CARITAS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2787,7 +4641,13 @@
     "Pcodes": "CMR004",
     "orga": "CRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2796,7 +4656,13 @@
     "Pcodes": "CMR004",
     "orga": "CRF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2805,7 +4671,13 @@
     "Pcodes": "CMR004",
     "orga": "CRS",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2814,7 +4686,13 @@
     "Pcodes": "CMR004",
     "orga": "DEMTOU",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2823,7 +4701,13 @@
     "Pcodes": "CMR004",
     "orga": "FADEC",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2832,7 +4716,13 @@
     "Pcodes": "CMR004",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2841,7 +4731,13 @@
     "Pcodes": "CMR004",
     "orga": "IRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2850,7 +4746,13 @@
     "Pcodes": "CMR004",
     "orga": "PUBLIC CONCERNE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2859,7 +4761,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2868,7 +4776,13 @@
     "Pcodes": "CMR004",
     "orga": "PUI",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2877,7 +4791,13 @@
     "Pcodes": "CMR004",
     "orga": "SAHELI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2886,7 +4806,13 @@
     "Pcodes": "CMR004",
     "orga": "SAILD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2895,7 +4821,13 @@
     "Pcodes": "CMR004",
     "orga": "SDA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2904,7 +4836,13 @@
     "Pcodes": "CMR004",
     "orga": "SNV",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2913,7 +4851,13 @@
     "Pcodes": "CMR004",
     "orga": "ACF",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2922,7 +4866,13 @@
     "Pcodes": "CMR004",
     "orga": "ADRA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2931,7 +4881,13 @@
     "Pcodes": "CMR004",
     "orga": "AGADJAS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2940,7 +4896,13 @@
     "Pcodes": "CMR004",
     "orga": "AHA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2949,7 +4911,13 @@
     "Pcodes": "CMR004",
     "orga": "ALDEPA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2958,7 +4926,13 @@
     "Pcodes": "CMR004",
     "orga": "ALIMA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2967,7 +4941,13 @@
     "Pcodes": "CMR004",
     "orga": "CDD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2976,7 +4956,13 @@
     "Pcodes": "CMR004",
     "orga": "CICR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2985,7 +4971,13 @@
     "Pcodes": "CMR004",
     "orga": "CODAS CARITAS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -2994,7 +4986,13 @@
     "Pcodes": "CMR004",
     "orga": "CRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3003,7 +5001,13 @@
     "Pcodes": "CMR004",
     "orga": "CRF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3012,7 +5016,13 @@
     "Pcodes": "CMR004",
     "orga": "DEMTOU",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3021,7 +5031,13 @@
     "Pcodes": "CMR004",
     "orga": "IMC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3030,7 +5046,13 @@
     "Pcodes": "CMR004",
     "orga": "MSF SUISSE",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3039,7 +5061,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3048,7 +5076,13 @@
     "Pcodes": "CMR004",
     "orga": "SDA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3057,7 +5091,13 @@
     "Pcodes": "CMR004",
     "orga": "ACDEV",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3066,7 +5106,13 @@
     "Pcodes": "CMR004",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3075,7 +5121,13 @@
     "Pcodes": "CMR004",
     "orga": "AGADJAS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3084,7 +5136,13 @@
     "Pcodes": "CMR004",
     "orga": "AHA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3093,7 +5151,13 @@
     "Pcodes": "CMR004",
     "orga": "ALIMA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3102,7 +5166,13 @@
     "Pcodes": "CMR004",
     "orga": "CICR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3111,7 +5181,13 @@
     "Pcodes": "CMR004",
     "orga": "CODAS CARITAS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3120,7 +5196,13 @@
     "Pcodes": "CMR004",
     "orga": "CRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3129,7 +5211,13 @@
     "Pcodes": "CMR004",
     "orga": "CRF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3138,7 +5226,13 @@
     "Pcodes": "CMR004",
     "orga": "DEMTOU",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3147,7 +5241,13 @@
     "Pcodes": "CMR004",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3156,7 +5256,13 @@
     "Pcodes": "CMR004",
     "orga": "IMC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3165,7 +5271,13 @@
     "Pcodes": "CMR004",
     "orga": "MSF SUISSE",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3174,7 +5286,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3183,7 +5301,13 @@
     "Pcodes": "CMR004",
     "orga": "SDA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3192,7 +5316,13 @@
     "Pcodes": "CMR004",
     "orga": "SNV",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3201,7 +5331,13 @@
     "Pcodes": "CMR004",
     "orga": "ALDEPA",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3210,7 +5346,13 @@
     "Pcodes": "CMR004",
     "orga": "ALVF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3219,7 +5361,13 @@
     "Pcodes": "CMR004",
     "orga": "CAPROD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3228,7 +5376,13 @@
     "Pcodes": "CMR004",
     "orga": "CDD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3237,7 +5391,13 @@
     "Pcodes": "CMR004",
     "orga": "CICR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3246,7 +5406,13 @@
     "Pcodes": "CMR004",
     "orga": "CLIRA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3255,7 +5421,13 @@
     "Pcodes": "CMR004",
     "orga": "CODAS CARITAS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3264,7 +5436,13 @@
     "Pcodes": "CMR004",
     "orga": "DEMTOU",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3273,7 +5451,13 @@
     "Pcodes": "CMR004",
     "orga": "DHCS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3282,7 +5466,13 @@
     "Pcodes": "CMR004",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3291,7 +5481,13 @@
     "Pcodes": "CMR004",
     "orga": "IMC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3300,7 +5496,13 @@
     "Pcodes": "CMR004",
     "orga": "INTERSOS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3309,7 +5511,13 @@
     "Pcodes": "CMR004",
     "orga": "MDDHL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3318,7 +5526,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3327,7 +5541,13 @@
     "Pcodes": "CMR004",
     "orga": "RESPECT CAMEROUN",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3336,7 +5556,13 @@
     "Pcodes": "CMR004",
     "orga": "SAHELI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3345,7 +5571,13 @@
     "Pcodes": "CMR004",
     "orga": "ADES",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3354,7 +5586,13 @@
     "Pcodes": "CMR004",
     "orga": "AIRD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3363,7 +5601,13 @@
     "Pcodes": "CMR004",
     "orga": "ALDEPA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3372,7 +5616,13 @@
     "Pcodes": "CMR004",
     "orga": "CARE INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3381,7 +5631,13 @@
     "Pcodes": "CMR004",
     "orga": "ICAHD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3390,7 +5646,13 @@
     "Pcodes": "CMR004",
     "orga": "IEDA RELIEF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3399,7 +5661,13 @@
     "Pcodes": "CMR004",
     "orga": "INTERSOS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3408,7 +5676,13 @@
     "Pcodes": "CMR004",
     "orga": "PUBLIC CONCERNE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3417,7 +5691,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3426,7 +5706,13 @@
     "Pcodes": "CMR004",
     "orga": "RESPECT CAMEROUN",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3435,7 +5721,13 @@
     "Pcodes": "CMR004",
     "orga": "SAHELI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3444,7 +5736,13 @@
     "Pcodes": "CMR004",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3453,7 +5751,13 @@
     "Pcodes": "CMR004",
     "orga": "AIDER",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3462,7 +5766,13 @@
     "Pcodes": "CMR004",
     "orga": "CARE INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3471,7 +5781,13 @@
     "Pcodes": "CMR004",
     "orga": "CICR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3480,7 +5796,13 @@
     "Pcodes": "CMR004",
     "orga": "CODAS CARITAS",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3489,7 +5811,13 @@
     "Pcodes": "CMR004",
     "orga": "CRC",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3498,7 +5826,13 @@
     "Pcodes": "CMR004",
     "orga": "CRS",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3507,7 +5841,13 @@
     "Pcodes": "CMR004",
     "orga": "DEMTOU",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3516,7 +5856,13 @@
     "Pcodes": "CMR004",
     "orga": "IMC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3525,7 +5871,13 @@
     "Pcodes": "CMR004",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3534,7 +5886,13 @@
     "Pcodes": "CMR004",
     "orga": "PLAN INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3543,7 +5901,13 @@
     "Pcodes": "CMR004",
     "orga": "PUBLIC CONCERNE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3552,7 +5916,13 @@
     "Pcodes": "CMR004",
     "orga": "PUI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Cameroon",
@@ -3561,7 +5931,13 @@
     "Pcodes": "CMR004",
     "orga": "SOLIDARITES INTERNATIONALES",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3570,7 +5946,13 @@
     "Pcodes": "TCD007",
     "orga": "ACF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3579,7 +5961,13 @@
     "Pcodes": "TCD007",
     "orga": "CICR",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3588,7 +5976,13 @@
     "Pcodes": "TCD007",
     "orga": "CRT",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3597,7 +5991,13 @@
     "Pcodes": "TCD007",
     "orga": "HELP TCHAD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3606,7 +6006,13 @@
     "Pcodes": "TCD007",
     "orga": "IOM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3615,7 +6021,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3624,7 +6036,13 @@
     "Pcodes": "TCD007",
     "orga": "UNICEF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3633,7 +6051,13 @@
     "Pcodes": "TCD007",
     "orga": "OCHA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3642,7 +6066,13 @@
     "Pcodes": "TCD007",
     "orga": "UNDSS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3651,7 +6081,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3660,7 +6096,13 @@
     "Pcodes": "TCD007",
     "orga": "CERJCAB",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3669,7 +6111,13 @@
     "Pcodes": "TCD007",
     "orga": "COOPI",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3678,7 +6126,13 @@
     "Pcodes": "TCD007",
     "orga": "CRT",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3687,7 +6141,13 @@
     "Pcodes": "TCD007",
     "orga": "HANDICAP INTERNATIONAL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3696,7 +6156,13 @@
     "Pcodes": "TCD007",
     "orga": "SECADEV",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3705,7 +6171,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3714,7 +6186,13 @@
     "Pcodes": "TCD007",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3723,7 +6201,13 @@
     "Pcodes": "TCD007",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3732,7 +6216,13 @@
     "Pcodes": "TCD007",
     "orga": "ACHUDE",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3741,7 +6231,13 @@
     "Pcodes": "TCD007",
     "orga": "ACTED",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3750,7 +6246,13 @@
     "Pcodes": "TCD007",
     "orga": "CARE INTERNATIONAL",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3759,7 +6261,13 @@
     "Pcodes": "TCD007",
     "orga": "CHORA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3768,7 +6276,13 @@
     "Pcodes": "TCD007",
     "orga": "CICR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3777,7 +6291,13 @@
     "Pcodes": "TCD007",
     "orga": "COOPI",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3786,7 +6306,13 @@
     "Pcodes": "TCD007",
     "orga": "CRS",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3795,7 +6321,13 @@
     "Pcodes": "TCD007",
     "orga": "CRT",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3804,7 +6336,13 @@
     "Pcodes": "TCD007",
     "orga": "FAO",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3813,7 +6351,13 @@
     "Pcodes": "TCD007",
     "orga": "HELP TCHAD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3822,7 +6366,13 @@
     "Pcodes": "TCD007",
     "orga": "IHDL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3831,7 +6381,13 @@
     "Pcodes": "TCD007",
     "orga": "OHD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3840,7 +6396,13 @@
     "Pcodes": "TCD007",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3849,7 +6411,13 @@
     "Pcodes": "TCD007",
     "orga": "PADIESE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3858,7 +6426,13 @@
     "Pcodes": "TCD007",
     "orga": "WFP",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3867,7 +6441,13 @@
     "Pcodes": "TCD007",
     "orga": "SECADEV",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3876,7 +6456,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3885,7 +6471,13 @@
     "Pcodes": "TCD007",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3894,7 +6486,13 @@
     "Pcodes": "TCD007",
     "orga": "ALIMA",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3903,7 +6501,13 @@
     "Pcodes": "TCD007",
     "orga": "CERJCAB",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3912,7 +6516,13 @@
     "Pcodes": "TCD007",
     "orga": "CRT",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3921,7 +6531,13 @@
     "Pcodes": "TCD007",
     "orga": "IMC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3930,7 +6546,13 @@
     "Pcodes": "TCD007",
     "orga": "INTERSOS",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3939,7 +6561,13 @@
     "Pcodes": "TCD007",
     "orga": "IRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3948,7 +6576,13 @@
     "Pcodes": "TCD007",
     "orga": "MSF SUISSE",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3957,7 +6591,13 @@
     "Pcodes": "TCD007",
     "orga": "WHO",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3966,7 +6606,13 @@
     "Pcodes": "TCD007",
     "orga": "SECADEV",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3975,7 +6621,13 @@
     "Pcodes": "TCD007",
     "orga": "UNFPA",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3984,7 +6636,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -3993,7 +6651,13 @@
     "Pcodes": "TCD007",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4002,7 +6666,13 @@
     "Pcodes": "TCD007",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4011,7 +6681,13 @@
     "Pcodes": "TCD007",
     "orga": "ACHUDE",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4020,7 +6696,13 @@
     "Pcodes": "TCD007",
     "orga": "ACTED",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4029,7 +6711,13 @@
     "Pcodes": "TCD007",
     "orga": "AL NADJA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4038,7 +6726,13 @@
     "Pcodes": "TCD007",
     "orga": "ALIMA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4047,7 +6741,13 @@
     "Pcodes": "TCD007",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4056,7 +6756,13 @@
     "Pcodes": "TCD007",
     "orga": "CELIAF",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4065,7 +6771,13 @@
     "Pcodes": "TCD007",
     "orga": "IMC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4074,7 +6786,13 @@
     "Pcodes": "TCD007",
     "orga": "IRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4083,7 +6801,13 @@
     "Pcodes": "TCD007",
     "orga": "MSF SUISSE",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4092,7 +6816,13 @@
     "Pcodes": "TCD007",
     "orga": "WHO",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4101,7 +6831,13 @@
     "Pcodes": "TCD007",
     "orga": "WFP",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4110,7 +6846,13 @@
     "Pcodes": "TCD007",
     "orga": "SECADEV",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4119,7 +6861,13 @@
     "Pcodes": "TCD007",
     "orga": "UNFPA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4128,7 +6876,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4137,7 +6891,13 @@
     "Pcodes": "TCD007",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4146,7 +6906,13 @@
     "Pcodes": "TCD007",
     "orga": "ACF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4155,7 +6921,13 @@
     "Pcodes": "TCD007",
     "orga": "ADRA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4164,7 +6936,13 @@
     "Pcodes": "TCD007",
     "orga": "APSELPA",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4173,7 +6951,13 @@
     "Pcodes": "TCD007",
     "orga": "CARE INTERNATIONAL",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4182,7 +6966,13 @@
     "Pcodes": "TCD007",
     "orga": "COOPI",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4191,7 +6981,13 @@
     "Pcodes": "TCD007",
     "orga": "CRT",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4200,7 +6996,13 @@
     "Pcodes": "TCD007",
     "orga": "HANDICAP INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4209,7 +7011,13 @@
     "Pcodes": "TCD007",
     "orga": "HELP TCHAD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4218,7 +7026,13 @@
     "Pcodes": "TCD007",
     "orga": "IHDL",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4227,7 +7041,13 @@
     "Pcodes": "TCD007",
     "orga": "IOM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4236,7 +7056,13 @@
     "Pcodes": "TCD007",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4245,7 +7071,13 @@
     "Pcodes": "TCD007",
     "orga": "UNFPA",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4254,7 +7086,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4263,7 +7101,13 @@
     "Pcodes": "TCD007",
     "orga": "UNICEF",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4272,7 +7116,13 @@
     "Pcodes": "TCD007",
     "orga": "ACF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4281,7 +7131,13 @@
     "Pcodes": "TCD007",
     "orga": "CARE INTERNATIONAL",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4290,7 +7146,13 @@
     "Pcodes": "TCD007",
     "orga": "CICR",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4299,7 +7161,13 @@
     "Pcodes": "TCD007",
     "orga": "CRT",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4308,7 +7176,13 @@
     "Pcodes": "TCD007",
     "orga": "HELP TCHAD",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4317,7 +7191,13 @@
     "Pcodes": "TCD007",
     "orga": "MSF SUISSE",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4326,7 +7206,13 @@
     "Pcodes": "TCD007",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4335,7 +7221,13 @@
     "Pcodes": "TCD007",
     "orga": "UNHCR",
     "count": 1,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4344,7 +7236,13 @@
     "Pcodes": "TCD007",
     "orga": "UNICEF",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Chad",
@@ -4353,7 +7251,13 @@
     "Pcodes": "TCD007",
     "orga": "WORLD VISION",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4362,7 +7266,13 @@
     "Pcodes": "NGA036",
     "orga": "OCHA",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4371,7 +7281,13 @@
     "Pcodes": "NGA036",
     "orga": "CAI",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4380,7 +7296,13 @@
     "Pcodes": "NGA036",
     "orga": "CCFN",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4389,7 +7311,13 @@
     "Pcodes": "NGA036",
     "orga": "ECR",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4398,7 +7326,13 @@
     "Pcodes": "NGA036",
     "orga": "ACF",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4407,7 +7341,13 @@
     "Pcodes": "NGA036",
     "orga": "CISCOPE",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4416,7 +7356,13 @@
     "Pcodes": "NGA036",
     "orga": "COOPI",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4425,7 +7371,13 @@
     "Pcodes": "NGA036",
     "orga": "CRS",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4434,7 +7386,13 @@
     "Pcodes": "NGA036",
     "orga": "OXFAM",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4443,7 +7401,13 @@
     "Pcodes": "NGA036",
     "orga": "WFP",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4452,7 +7416,13 @@
     "Pcodes": "NGA036",
     "orga": "NRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4461,7 +7431,13 @@
     "Pcodes": "NGA036",
     "orga": "MSF - SPAIN",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4470,7 +7446,13 @@
     "Pcodes": "NGA036",
     "orga": "MSF - SPAIN",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4479,7 +7461,13 @@
     "Pcodes": "NGA036",
     "orga": "COOPI",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4488,7 +7476,13 @@
     "Pcodes": "NGA036",
     "orga": "DRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4497,7 +7491,13 @@
     "Pcodes": "NGA036",
     "orga": "IRC",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4506,7 +7506,13 @@
     "Pcodes": "NGA036",
     "orga": "SMYSSCD",
     "count": 1,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4515,7 +7521,13 @@
     "Pcodes": "NGA036",
     "orga": "POH",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4524,7 +7536,13 @@
     "Pcodes": "NGA036",
     "orga": "UNHCR",
     "count": 0,
-    "presence": 1
+    "presence": 1,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4533,7 +7551,13 @@
     "Pcodes": "NGA036",
     "orga": "NRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   },
   {
     "Country": "Nigeria",
@@ -4542,6 +7566,12 @@
     "Pcodes": "NGA036",
     "orga": "NRC",
     "count": 0,
-    "presence": 0
+    "presence": 0,
+    "adm": "",
+    "CCCM": "",
+    "FSC": "",
+    "Coordination": "",
+    "Education": "",
+    "Nutrition": ""
   }
 ]
