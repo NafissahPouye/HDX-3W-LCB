@@ -50,10 +50,16 @@ function generate3WComponent(config,data,geom){
     var nbgroup = nbdim.group().reduceSum(function(d){return d[config.nbField];});
 
 //datatable
-    datatabGraphe.dimension(whoDimension)
-        .group(function (d) {
-            return d.whoGroup;
-        })
+var dimulti = cf.dimension(function(d){
+    // console.log([d.Country, d.Admin1, d.sector]);
+    return [d.Country, d.Admin1, d.sector];});
+var gp2 = dimulti.group();
+
+    datatabGraphe.dimension(dimulti)
+        // .group(function (d) {
+        //     return d.orga;
+        // })
+        .group(gp2)
         .columns([
                 function (d) {
                 return d.Country;
@@ -94,7 +100,7 @@ function generate3WComponent(config,data,geom){
 ];
 var ndx = crossfilter(test);
     var dim = ndx.dimension(function (d){ 
-        console.log(d.adm);
+        // console.log(d.adm);
         return d.adm;});
     var gp = dim.group();//.reduceSum(function(d){ return d.CCCM;});
 
